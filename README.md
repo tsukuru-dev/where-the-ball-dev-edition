@@ -3,6 +3,8 @@ I know kanbans and jira and all that exists but honestly for a small team jira i
 
 A way to track where the ball is because its not just about being a to do list it is about keeping track of where the ball is.
 
+Basically this is a lightweight handoff layer... its not full on project management with timelines and all that ish its just a who needs to do what next
+
 ## My Solution
 A project to tell us where the ball is... collaborative to do list except it actually looks at where things are in github/gitlab.
 
